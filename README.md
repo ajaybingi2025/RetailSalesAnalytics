@@ -1,18 +1,16 @@
-# RetailSalesAnalytics
-First I've built a synthetic dataset to show data generation, modeling, and analysis skills using Python.
+# Retail Sales Analytics Dashboard (SQL + Tableau)
 
--Tables
+This project simulates a **retail sales analytics pipeline** using **PostgreSQL + Tableau**.  
+I generated synthetic data for customers, products, and orders, then wrote SQL queries to analyze key business metrics.
 
-#Customers: CustomerID, Name, Segment (Consumer, Corporate, Small Business), Region
+## Key Insights
+- Sales & profit trends over time
+- Top 10 products by revenue
+- Sales breakdown by region & customer segment
+- Identification of high-value customers (top 5%)
+- Churn analysis (inactive customers in last 6 months)
 
-#Products: ProductID, Category (Electronics, Furniture, Office Supplies, Clothing), SubCategory, Price
-
-#Orders: OrderID, CustomerID, ProductID, OrderDate, Quantity, Discount, Sales, Profit
-
-Output Files
-
--customers.csv → 200 customers
-
--products.csv → 100 products
-
--orders.csv → 5000 orders across 3 years
+## Tech Stack
+- PostgreSQL (Data Storage & Queries)
+- SQL (Analysis)
+- Tableau (Dashboards)
