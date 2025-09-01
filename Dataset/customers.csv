@@ -1,0 +1,201 @@
+CustomerID,Name,Segment,Region
+1,Lindsay Thompson,Corporate,West
+2,Alexander Santana,Consumer,North
+3,Amanda Contreras,Corporate,South
+4,Melissa Lee,Corporate,South
+5,Christopher Johnson,Consumer,West
+6,James Morris,Corporate,North
+7,Deborah Marsh,Small Business,South
+8,Jamie Diaz,Small Business,South
+9,Jeremiah Davidson,Corporate,South
+10,Timothy Carroll,Corporate,North
+11,Sandra Howard,Consumer,East
+12,Jonathan Bailey,Corporate,South
+13,Andrea Graham,Consumer,South
+14,David Rogers,Corporate,South
+15,Brenda Phillips,Consumer,East
+16,Jill Waters,Consumer,South
+17,Robin Sutton,Corporate,West
+18,Ashley Bridges,Small Business,South
+19,Sandra Sandoval,Consumer,North
+20,Benjamin Werner,Small Business,South
+21,David Armstrong,Corporate,East
+22,Cheryl Hartman,Small Business,West
+23,Nancy Stanton,Consumer,East
+24,Kelsey Webb,Consumer,West
+25,Sean Escobar,Corporate,South
+26,John Garcia,Small Business,West
+27,Daniel Lopez,Small Business,South
+28,Cathy Campbell DDS,Corporate,North
+29,Jennifer Delgado,Corporate,North
+30,James Campbell,Corporate,West
+31,Jesus Morgan,Corporate,East
+32,Shannon Mckee,Consumer,South
+33,Steven Hamilton,Small Business,North
+34,Justin Melendez,Corporate,North
+35,Dustin Grant,Corporate,West
+36,Jessica Ellis,Corporate,North
+37,Rebecca Nichols,Small Business,East
+38,Karen Compton,Small Business,East
+39,Rebecca Lynn,Consumer,East
+40,Carolyn Mckinney,Small Business,South
+41,John Jones,Small Business,North
+42,Thomas Martin,Corporate,West
+43,Brandon Perez,Consumer,North
+44,Cindy Kennedy,Corporate,West
+45,Michele Allen,Small Business,North
+46,Candice Smith,Small Business,North
+47,Mary Stewart,Consumer,West
+48,William Daniel,Consumer,South
+49,Amanda Lee,Small Business,North
+50,Steve Miller,Consumer,North
+51,Matthew Solomon,Small Business,West
+52,Kent Brown,Small Business,South
+53,Daniel Alexander,Consumer,South
+54,Steven Moore,Consumer,East
+55,Tracy Bryan,Corporate,West
+56,John Dunn,Small Business,South
+57,Joshua Huang,Corporate,West
+58,Debra Smith,Corporate,South
+59,Daniel Davies,Consumer,North
+60,Monica Morrow,Corporate,South
+61,Katelyn Lynch,Small Business,East
+62,Jason Sanchez,Consumer,West
+63,Ricky Richardson,Consumer,East
+64,John Walsh,Small Business,East
+65,Dalton Jones,Small Business,North
+66,Sheila Underwood,Consumer,South
+67,Luke Patel,Corporate,West
+68,Mark Brown,Small Business,North
+69,Bruce Glover,Consumer,West
+70,Robin Williams,Consumer,North
+71,William Trujillo,Corporate,East
+72,Sheila Jimenez,Small Business,South
+73,Anthony Hansen,Corporate,North
+74,Joseph Webb,Consumer,East
+75,Wyatt Vaughn,Small Business,South
+76,Christine Jones,Small Business,South
+77,Eric Miller,Small Business,South
+78,Joanna George,Corporate,South
+79,Teresa Byrd,Corporate,North
+80,Aaron Myers,Corporate,North
+81,Melissa Roberts,Small Business,East
+82,Katelyn Rowe,Corporate,West
+83,Robert Powell,Consumer,West
+84,Travis Scott,Consumer,West
+85,Jasmin Ross,Consumer,East
+86,Elizabeth Nicholson,Consumer,East
+87,Shaun Anderson,Small Business,East
+88,Melissa Wright,Consumer,West
+89,Joann Solis,Corporate,East
+90,Thomas Chapman,Small Business,West
+91,Daniel Johnson,Small Business,West
+92,Brian Benitez,Corporate,East
+93,Paul Bailey,Corporate,West
+94,Matthew Baxter,Consumer,North
+95,David Lopez,Consumer,East
+96,Rebecca Cooper,Consumer,South
+97,Andrew Mccullough,Corporate,South
+98,Joshua Perry,Small Business,North
+99,Tiffany Johnson,Consumer,North
+100,Monica Edwards,Consumer,South
+101,Tom Williams,Corporate,East
+102,Carrie Roberts,Small Business,East
+103,Leah Wu,Consumer,South
+104,Joseph Wilson,Small Business,West
+105,Caitlin Sullivan,Small Business,North
+106,Dylan Lara,Corporate,North
+107,Dawn Macias,Small Business,North
+108,Don Perez,Small Business,North
+109,Kevin Bradley,Corporate,West
+110,Ashley Collier,Corporate,East
+111,Misty Dickson,Small Business,South
+112,Susan Rice,Small Business,North
+113,Nathan Lopez,Small Business,North
+114,Jennifer Johnson,Corporate,East
+115,James Valdez,Consumer,South
+116,Adam Fleming,Corporate,West
+117,Carla Burke,Consumer,West
+118,Kyle Woods,Corporate,West
+119,Jeffrey Price,Corporate,North
+120,Nicole Thomas,Small Business,West
+121,Jared Rogers,Small Business,South
+122,Trevor Levine,Small Business,North
+123,Steven Chandler,Consumer,South
+124,Vernon Shepard,Small Business,East
+125,Nicole Wilson,Small Business,North
+126,David Morrison,Corporate,East
+127,Sean Molina,Small Business,West
+128,Amy Collins,Corporate,North
+129,Michele Morrison,Small Business,North
+130,Chelsea Finley,Small Business,East
+131,Brandon Haynes,Corporate,East
+132,Wanda Williams,Corporate,North
+133,Cody Vasquez,Small Business,North
+134,Michelle Jones,Corporate,East
+135,Danielle Flores,Corporate,North
+136,Juan Davis,Corporate,East
+137,Chad Ward,Small Business,North
+138,Paige Jones,Consumer,North
+139,Sergio Perez,Corporate,East
+140,Abigail Mccullough,Small Business,South
+141,Dr. John James,Small Business,West
+142,Patricia Smith,Small Business,North
+143,John Jackson,Small Business,East
+144,Sheila Stewart,Small Business,West
+145,Jessica Woodard,Small Business,West
+146,Travis Boyd,Small Business,East
+147,Lee Goodwin,Corporate,South
+148,Luis Owens,Consumer,East
+149,Lindsey Meyers,Small Business,North
+150,Todd Bryant,Corporate,East
+151,Erica Brown,Consumer,West
+152,Katie Garcia,Corporate,East
+153,Alyssa Miller,Consumer,West
+154,Joy Mccall,Consumer,East
+155,Rebecca Cunningham,Corporate,West
+156,Jerome Davis,Consumer,East
+157,Elizabeth Coleman,Small Business,South
+158,Elaine Smith,Corporate,South
+159,Lori Collier,Small Business,West
+160,Karen Sanford,Corporate,West
+161,Jenna Bates,Corporate,East
+162,Linda Kirby,Consumer,East
+163,Cindy Mills,Small Business,South
+164,Kim Krause,Small Business,West
+165,George White,Small Business,South
+166,Joshua Cook,Corporate,North
+167,James Reynolds,Small Business,West
+168,Cheryl Smith,Corporate,South
+169,Jody Garcia,Small Business,South
+170,Kendra Walters,Small Business,North
+171,Angela Baxter,Consumer,South
+172,Elizabeth Lopez,Corporate,West
+173,Jonathan Jones,Small Business,South
+174,Tony Gonzales,Consumer,North
+175,Sara Sutton,Small Business,East
+176,William Graham,Consumer,South
+177,April Alvarez,Consumer,South
+178,Melinda Davis,Consumer,South
+179,Courtney Hill,Consumer,East
+180,Jose Jackson,Corporate,West
+181,Jenna Gonzalez,Consumer,East
+182,James Lopez,Corporate,West
+183,Julian Alexander,Consumer,West
+184,Elizabeth Hubbard,Consumer,North
+185,Emily Fletcher,Small Business,North
+186,Isabel Oliver,Consumer,West
+187,Teresa Jones,Small Business,North
+188,Christopher Green,Corporate,West
+189,Lisa Tran,Corporate,West
+190,Robert Morris,Consumer,East
+191,Kenneth Leblanc,Small Business,West
+192,Jennifer Haley,Small Business,South
+193,Jason Wright,Consumer,North
+194,Robert Williams,Small Business,North
+195,Karen Hardy,Small Business,North
+196,George Rosales,Consumer,East
+197,Michael Jimenez,Small Business,West
+198,Natalie Curtis,Small Business,South
+199,Angela Dickson MD,Small Business,West
+200,Loretta Sandoval,Small Business,East
